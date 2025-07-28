@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+l# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -20,7 +20,7 @@ repository               : "shirshamukherjee.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author: Shirsha Mukherjee
   # Biographic information
   avatar           : "profile.png"
   name             : "Shirsha Mukherjee"
@@ -29,7 +29,7 @@ author:
   location         : "Oklahoma, USA"
   employer         : "University of Oklahoma"
   # uri              : # URL
-  shirsha.mukherjee@ou.edu            : "shirsha.mukherjee@ou.edu" 
+  email            : "shirsha.mukherjee@ou.edu" 
 
    # Academic websites
    # academia         : # URL
