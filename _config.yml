@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CIERA REU Undergraduate Resaercher"
+title                    : "CIERA REU Undergraduate Researcher"
 title_separator          : "-"
 name                     : &name "Shirsha Mukherjee"
 description              : &description "TBD"
