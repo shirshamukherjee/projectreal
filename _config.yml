@@ -13,7 +13,7 @@ title                    : "CIERA REU Undergraduate Researcher"
 title_separator          : "-"
 name                     : &name "Shirsha Mukherjee"
 description              : &description "Rising Junior @ The University of Oklahoma"
-url                      : shirshamukherjee.github.io/projectreal
+url                      : https://shirshamukherjee.github.io/projectreal
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shirshamukherjee.github.io/project"
 
