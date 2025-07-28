@@ -28,15 +28,15 @@ author:
   a variety of areas from biomedical engineering, to engineering pathways, to gravitational-wave analysis."
   location         : "Oklahoma, USA"
   employer         : "University of Oklahoma"
-  uri              : # URL
-  email            : "shirsha.mukherjee@ou.edu" 
+  # uri              : # URL
+  shirsha.mukherjee@ou.edu            : "shirsha.mukherjee@ou.edu" 
 
    # Academic websites
    # academia         : # URL
    # arxiv            : # URL - Update with the correct link to your profile
    # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
    orcid            : "https://orcid.org/0009-0007-0866-4599"
-   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   
 
   # # Repositories and software development
